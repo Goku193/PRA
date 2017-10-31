@@ -1,2 +1,2 @@
 # PRA
-Pracownia Programowania
+Projekt nr 1 z trzecich zajęć Podstaw Programowania.
